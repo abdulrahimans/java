@@ -1,0 +1,28 @@
+What does @SpringBootApplication annotation do?
+What are the spring boot annotations available please explain?
+What is Springboot profile?
+Tell me about Springboot's entry point?
+What a component scan does?
+What is the difference between @Component and @Service@Repostory@Controller
+How does springboot auto detection framework works?
+What is @ResponseBody annotation does?
+How to use @Controller Advice for exception handling?
+Difference between @ControllerAdvice and @RestController Advice?
+How to exclude any configuration in SpringBoot?
+What you use to create a resources in the spring boot application?
+How to make post method idempotent inside springboot?
+How to use custom exception handler in springboot?
+How to use transaction manangement in springboot?
+How to set the properties across different environments like Dev,QA,Prod?
+Describe the aop concept which all annotations are used?
+How to define the pointcuts?
+Spring transaction management?
+How to handle security in SpringBoot?
+Which annotation is used to enable Kafka?
+What is JWT Token how does spring boot fetch the information?
+How does JWT token work internally?
+How does transaction works in springboot microservices, how to achieve that?
+Write an endpoint in springboot for getting and saving an employee with syntax?
+How does JWT Token authentication work?
+How does OAuth/JWT works internally and how to make sure your token has not been tampered with?
+How to handle the exceptions in spring boot ? what are the best practice's to do it?
